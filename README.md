@@ -15,6 +15,15 @@ This project analyzes the Adidas US sales dataset for 2020-2021 to derive action
 
 ## 📈 Business Metrics Analyzed
 
+![01](https://github.com/user-attachments/assets/f08713e9-27c8-4d79-8fab-b15d31c323b5)
+
+![Screenshot_1](https://github.com/user-attachments/assets/0cabb174-3679-45b4-9def-472046d359a7)
+
+![Screenshot_2](https://github.com/user-attachments/assets/a5292a50-f06c-4862-9e46-5390a0be7e35)
+
+![Screenshot_3](https://github.com/user-attachments/assets/5b6b39e9-31b3-4f40-b70a-8a8bef8b26ac)
+
+
 The analysis focuses on the following key performance indicators:
 
 | Metric | Description |
@@ -88,13 +97,6 @@ adidas-sales-analysis/
    - Building interactive visualizations
    - Configuring dashboard parameters
    - Creating drill-down capabilities
-
-## 🚀 How to Run
-
-1. Import the notebook into your Databricks workspace
-2. Upload the dataset to Databricks DBFS (or use the provided path)
-3. Run all cells in the notebook sequentially
-4. Access the dashboard through the Databricks visualization interface
 
 ## 📝 Key Findings
 
